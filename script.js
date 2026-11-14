@@ -2,10 +2,10 @@
 // PERSONALIZE THESE DETAILS BEFORE PUBLISHING
 // ============================================================
 const portfolioConfig = {
-  email: "your.email@example.com",       // Replace with your email
-  github: "https://github.com/your-username",
-  linkedin: "https://www.linkedin.com/in/your-profile",
-  facebook: "https://www.facebook.com/your-profile"
+  email: "zinzulytun7@example.com",       // Replace with your email
+  github: "https://github.com/zinzulytun-dev",
+  linkedin: "https://www.linkedin.com/in/zin-zuly-tun-34a417310/",
+  facebook: "https://www.facebook.com/share/1FrqFRjxFj/"
 };
 
 // Add contact details to the page from the configuration above.
