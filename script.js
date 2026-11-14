@@ -2,7 +2,7 @@
 // PERSONALIZE THESE DETAILS BEFORE PUBLISHING
 // ============================================================
 const portfolioConfig = {
-  email: "zinzulytun7@example.com",       // Replace with your email
+  email: "zinzulytun7@gmail.com",       // Replace with your email
   github: "https://github.com/zinzulytun-dev",
   linkedin: "https://www.linkedin.com/in/zin-zuly-tun-34a417310/",
   facebook: "https://www.facebook.com/share/1FrqFRjxFj/"
